@@ -17,7 +17,7 @@ This project aims to introduce the wonderful world of virtualization. I will cre
 
 ## Bonus
 - [x] Set up a different partition structure;
-- [] Set up a functional WordPress website with the following services: lighttpd, MariaDB and PHP;
-- [] Set up a service of my own choice;
+- [ ] Set up a functional WordPress website with the following services: lighttpd, MariaDB and PHP;
+- [ ] Set up a service of my own choice;
 
 
